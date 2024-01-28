@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'NassimArabicRegular';
+    src: url('/fonts/Arabic/NassimArabicRegular.woff2') format('woff2'),
+         url('/fonts/Arabic/NassimArabicRegular.woff') format('woff'),
+         url('/fonts/Arabic/NassimArabicRegular.ttf') format('truetype'),
+         url('/fonts/Arabic/NassimArabicRegular.eot') format('embedded-opentype');
+    unicode-range: U+0020-007F, U+0600-06FF;
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+@font-face {
+    font-family: 'SareehSemiBold';
+    src:url('/fonts/Arabic/SareehSemiBold.woff') format('woff'),
+        url('/fonts/Arabic/SareehSemiBold.woff2') format('woff2'),
+        url('/fonts/Arabic/SareehSemiBold.eot'),
+        url('/fonts/Arabic/SareehSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Arabic/SareehSemiBold.otf') format('truetype');
+    unicode-range: U+0020-007F, U+0600-06FF;
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
